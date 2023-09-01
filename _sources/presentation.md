@@ -56,7 +56,7 @@ Ils seront définis plus tard.
 
 ````{admonition} Présentation
 :class: tip
-[Lien : https://tinyurl.com/y8rvrcpx](https://tinyurl.com/y8rvrcpx)
+[Lien : https://tinyurl.com/bde79nm9](https://tinyurl.com/bde79nm9)
 * NOM Prénom
 * __mail__
 * Système d'exploitation (Windows/Mac/Linux) + Python installé avec bibliothèques scientifiques (Oui/Non)
