@@ -31,7 +31,7 @@ Possible redirection vers adresse perso
 * Environnement numérique de travail : moodlecpge.stanislas.fr
 * Compte avec l'adresse __@stanislas-paris.fr__ _ou adresse perso_
 * Extrêmement important en physique:
-	  * Cours avec éléments d'__explications supplémentaires__
+    * Cours avec éléments d'__explications supplémentaires__
     * __Enoncé de TP__
     * __Capacités numériques__
     * __Corrections de DS/DM__

@@ -16,4 +16,3 @@ kernelspec:
 
 # Pour les semaines 1 et 2
 
-Le travail est donné : [https://tinyurl.com/yc7xhujk](https://tinyurl.com/yc7xhujk)

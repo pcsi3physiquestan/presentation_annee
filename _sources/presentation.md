@@ -54,13 +54,6 @@ Ils seront définis plus tard.
 * Vendredi 12h30 - 13h30 : Soutien. Vient qui veut. Mieux de m'envoyer des questions avant par mail.
 ```
 
-````{admonition} Présentation
-:class: tip
-[Lien : https://tinyurl.com/bde79nm9](https://tinyurl.com/bde79nm9)
-* NOM Prénom
-* __mail__
-* Système d'exploitation (Windows/Mac/Linux) + Python installé avec bibliothèques scientifiques (Oui/Non)
-````
 
 ````{admonition} Délégué
 :class: tip
