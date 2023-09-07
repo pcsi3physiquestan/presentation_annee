@@ -83,10 +83,4 @@ permet de comprendre le cours.
 * sur l'organisation de l'année dont la réponse a déjà été donnée durant cette présentation ou par la suite...
 ````
 
-```{code-cell} ipython3
----
-tags: [remove-input]
----
-from IPython.display import Video
-Video("https://youtu.be/RVB3PBPxMWg?feature=shared", width=640)
-```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RVB3PBPxMWg?si=Wb2k8oZGn1v5wQML" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
