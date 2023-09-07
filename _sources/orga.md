@@ -55,6 +55,7 @@ permet de comprendre le cours.
 * RELISEZ-VOUS Y compris __chez vous__.
 
 ## Les bonnes pratiques
+
 ````{important}
 * Faire ce qui est demandé
 * On peut ne pas réussir un exercice mais on doit y avoir réfléchi
@@ -81,3 +82,11 @@ permet de comprendre le cours.
 * TOUTE QUESTION DONT LE BUT EST DE MOINS TRAVAILLER
 * sur l'organisation de l'année dont la réponse a déjà été donnée durant cette présentation ou par la suite...
 ````
+
+```{code-cell} ipython3
+---
+tags: [remove-input]
+---
+from IPython.display import Video
+Video("https://youtu.be/RVB3PBPxMWg?feature=shared", width=640)
+```
