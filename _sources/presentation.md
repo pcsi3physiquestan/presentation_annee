@@ -27,10 +27,10 @@ Cédric Lacpatia (Physique) - cedric.lacpatia@stanislas-paris.fr
 Ils seront définis plus tard.
 
 ````
-````{admonition} Demi-groupe
+````{admonition} Demis-groupe
 :class: note
-* En TP, TD, Anglais...
-* Fait en math.
+* En TP, TD...
+* Faits en math.
 ````
 
 
@@ -38,10 +38,10 @@ Ils seront définis plus tard.
 * Demain : 
     * Matin : Ce vendredi SI puis on alternera les semaines suivantes
     * Après-midi - RDV à 13h : Inscription ENT + Python. __Amener votre ordinateur.__
-    * Demain : Cours jusqu'à 16h30/17h
-* Début des colles : La semaine du 18/09 ou 25/09
-    * __Ce__ Lundi 11/09 : Pas de TD __mais cours SI (classe entière)__
-* Vendredi 15 et 22 septembre : Soutien (math pour physique) de 15h30 à 17h30
+    * Demain : Cours jusqu'à 17h/17h30
+* Début des colles : La semaine du 23/09
+    * __Ce__ Lundi 11/09 : Pas de TD à 10h __mais cours SI (classe entière)__
+* Jeudi/Vendredi 12 et 13 septembre : Soutien (math pour physique) de 15h30 à 17h30
 ````
 ```{topic} Emploi du temps de physique
 * Lundi 8h-10h : Classe entière - 206 (cours/méthodes)
@@ -51,7 +51,6 @@ Ils seront définis plus tard.
     * Début des TPs de physique : Jeudi prochain par le groupe A puis alternance par quinzaine
 * Vendredi 10h-12h : Classe entière - 201 - \textbf{Une semaine sur deux}
 * Vendredi 13h30 - 15h30 : Classe entière  (méthodes/cours)
-* Vendredi 12h30 - 13h30 : Soutien. Vient qui veut. Mieux de m'envoyer des questions avant par mail.
 ```
 
 
